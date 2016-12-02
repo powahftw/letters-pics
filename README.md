@@ -48,7 +48,11 @@ python letterspics.py cat.jpg -t theinternetismadeofcats -d 15
 
 
 ### Final notes
+
 On small image, to achive better result the script double the dimension, otherwise the image's dimensions shouldn't change
+
+The color frequency part of the script is based on [this](http://blog.zeevgilovitz.com/detecting-dominant-colours-in-python/).
+It uses Colour Frequency since in a fraction of an image it's a good guess at what the average color is
 
 The first Example image was created with another script, which i hope i'll have soon time to clean and publish.
 
