@@ -61,7 +61,7 @@ On small image, to achive better result the script double the dimension, otherwi
 The color frequency part of the script is based on [this](http://blog.zeevgilovitz.com/detecting-dominant-colours-in-python/).
 It uses Colour Frequency since in a fraction of an image it's a good guess at what the average color is
 
-The first Example image was created with another script which i created for the occasion[juxtapose-py](https://github.com/powahftw/juxtapose-py)
+The first Example image was created with another script which i created for the occasion [juxtapose-py](https://github.com/powahftw/juxtapose-py)
 
 This script was developed in a short timeframe and as such there might be some occasional problem and some better optimization possibile. I appreciate any type of feedback :) 
 
